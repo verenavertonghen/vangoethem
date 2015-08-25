@@ -1,0 +1,58 @@
+$framework-window-height: 30em;
+$framework-background-height: $framework-window-height * 1.5;
+
+.hero-logo img {
+  height: 10em;
+}
+
+.hero-logo{
+  border:none !important;
+}
+
+.framework-window {
+  max-height: 60em;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  width: 100%;
+
+  h1{
+    color: $white;
+    font-size: 6em;
+    margin-bottom: 0em;
+  }
+
+  h1#display {
+    font-family: $display;
+    text-transform: uppercase;
+  }
+
+  h1#script {
+    font-family: $script;
+  }
+
+  p{
+    color:$white;
+    font-size: $h2-font-size;
+  }
+}
+
+.framework-static-content {
+  color: #9A9A8A;
+  padding: 10em 0;
+  position: relative;
+  z-index: 9;
+}
+
+.framework-background {
+  background: url("../../images/shop/5.jpg") repeat;
+  -webkit-filter: brightness(90%);
+  background-size: cover;
+  background-color: $dark;
+  background-position: top;
+  height: $framework-background-height;
+  left: 0;
+  position: absolute;
+  top: - $framework-window-height / 4;
+  width: 100%;
+}

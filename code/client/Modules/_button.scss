@@ -1,0 +1,49 @@
+/* BUTTON
+-------------------------*/
+
+@mixin my-btn($text,$background){
+	$darker: darken($background,10);
+	display: inline-block;
+	padding: 20px 30px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	position: relative;
+	display: inline-block;
+	text-align: center;
+	outline: none;
+	text-decoration: none;
+	margin-top:0.6em;
+	color: $text !important;
+	background: $background;
+  	box-shadow: 0 6px $darker;
+  	-webkit-transition: none;
+	-moz-transition: none;
+	transition: none;
+	border-radius: 5px;
+
+	&:hover{
+	  	color: $text;
+	  	box-shadow: 0 4px $darker;
+	  	top: 2px;
+	}
+}
+
+.btn-primary{
+	@include my-btn($white,$primary);
+}
+
+.btn-secondary{
+	@include my-btn($white,$secondary);
+}
+
+.btn-positive{
+	@include my-btn($white, $positive);
+}
+
+.btn-energized{
+	@include my-btn($white, $energized);
+}
+
+.btn-assertive{
+	@include my-btn($white, $assertive);
+}

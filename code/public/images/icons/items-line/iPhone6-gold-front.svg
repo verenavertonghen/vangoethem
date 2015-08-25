@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="210px"
+	 height="420px" viewBox="0 0 210 420" enable-background="new 0 0 210 420" xml:space="preserve">
+<g id="Camera_Standing">
+</g>
+<g id="Camera_Lying">
+</g>
+<g id="Colours_1_">
+</g>
+<g id="Aquarell_1_">
+</g>
+<g id="Envelope_big_1_">
+</g>
+<g id="Envelope_small_1_">
+</g>
+<g id="Airmail_1_">
+</g>
+<g id="Highlighters_Closed_1_">
+</g>
+<g id="Highlighters_Open_1_">
+</g>
+<g id="USB_Stick_1_">
+</g>
+<g id="Pencil_Small">
+</g>
+<g id="Pencil_Large">
+</g>
+<g id="Brush_3_">
+</g>
+<g id="Notepad_1_">
+</g>
+<g id="Moleskine_Large_Open">
+</g>
+<g id="Moleskine_Small_Open_1_">
+</g>
+<g id="Moleskine_Large">
+</g>
+<g id="Moleskine_Small_1_">
+</g>
+<g id="iPad_Mini">
+</g>
+<g id="MacBook_13_x22_">
+</g>
+<g id="iMac_1_">
+</g>
+<g id="Wallet_2_">
+</g>
+<g id="iPhone_6_Grey">
+</g>
+<g id="iPhone_6_Silver_1_">
+</g>
+<g id="iPhone_6_Gold_1_">
+	<g id="Front">
+		<g id="Background_13_">
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="#FCC865" d="M41.933,408.47c-20.588,0-33.378-12.787-33.378-33.372V46.66
+				c0-20.585,12.79-33.372,33.378-33.372h126.964c20.588,0,33.378,12.787,33.378,33.372v328.438
+				c0,20.585-12.79,33.372-33.378,33.372H41.933z"/>
+			<path fill="#333333" d="M168.897,15.288c19.55,0,31.378,11.825,31.378,31.372v328.438c0,19.441-11.828,31.372-31.378,31.372
+				h-0.679H41.933c-19.55,0-31.378-11.931-31.378-31.372V46.66c0-19.547,11.828-31.372,31.378-31.372H168.897 M168.897,11.288
+				H41.933c-21.822,0-35.378,13.554-35.378,35.372v328.438c0,10.634,3.294,19.556,9.526,25.802c6.247,6.261,15.186,9.57,25.852,9.57
+				h126.285h0.679c10.666,0,19.605-3.31,25.852-9.57c6.232-6.246,9.526-15.168,9.526-25.802V46.66
+				C204.275,24.842,190.719,11.288,168.897,11.288L168.897,11.288z"/>
+		</g>
+		<g id="Light_15_">
+			<g>
+				<path fill-rule="evenodd" clip-rule="evenodd" fill="#F4F4F4" d="M164.897,19.288H45.933c-19.55,0-31.378,11.825-31.378,31.372
+					v320.438c0,19.441,11.828,31.372,31.378,31.372h118.285h0.679c19.55,0,31.378-11.931,31.378-31.372V50.66
+					C196.275,31.113,184.447,19.288,164.897,19.288z"/>
+			</g>
+		</g>
+		<path id="Home_Button" fill-rule="evenodd" clip-rule="evenodd" fill="#FCC865" d="M102.472,367.566
+			c-8.458,0-15.313,6.856-15.313,15.312c0,8.458,6.855,15.313,15.313,15.313c8.457,0,15.313-6.855,15.313-15.313
+			C117.785,374.423,110.929,367.566,102.472,367.566z M102.472,396.687c-7.626,0-13.808-6.182-13.808-13.808
+			s6.182-13.806,13.808-13.806c7.625,0,13.807,6.18,13.807,13.806S110.097,396.687,102.472,396.687z"/>
+		<path id="Speaker" fill-rule="evenodd" clip-rule="evenodd" fill="#333333" d="M91.635,40.161h26.667
+			c0.92,0,1.667,0.746,1.667,1.667c0,0.92-0.747,1.667-1.667,1.667H91.635c-0.92,0-1.667-0.747-1.667-1.667
+			C89.969,40.907,90.715,40.161,91.635,40.161z"/>
+		<path id="Camera" fill-rule="evenodd" clip-rule="evenodd" fill="#333333" d="M74.347,39.828c1.658,0,3.001,1.344,3.001,2.996
+			c0,1.659-1.343,3.004-3.001,3.004c-1.655,0-2.999-1.345-2.999-3.004C71.349,41.172,72.692,39.828,74.347,39.828z"/>
+		<rect id="Display" x="21.415" y="63.452" fill-rule="evenodd" clip-rule="evenodd" fill="#333333" width="168" height="297.333"/>
+		<path id="Light_14_" opacity="0.1" fill="#FFFFFF" d="M71.906,15.288L10.555,76.64v28.723l90.075-90.074H71.906z M168.897,15.288
+			h-61.991L10.555,111.64v98.723L194.389,26.529C189.053,19.31,180.29,15.288,168.897,15.288z"/>
+	</g>
+</g>
+<g id="Wallet_1_">
+</g>
+<g id="Bills">
+</g>
+<g id="Coins_1_">
+</g>
+<g id="Passport_Red_1_">
+</g>
+<g id="Passport_Blue_1_">
+</g>
+<g id="Credit_Card_Red">
+</g>
+<g id="Credit_Card_Blue">
+</g>
+<g id="Aeroplane_1_">
+</g>
+<g id="Magic_Mouse_1_">
+</g>
+<g id="Keyboard">
+</g>
+<g id="Ruler_1_">
+</g>
+<g id="Charger_1_">
+</g>
+<g id="Macbook_13_x22_">
+</g>
+<g id="Brushes">
+</g>
+<g id="Pencils">
+</g>
+<g id="Can">
+</g>
+<g id="Coffee">
+</g>
+<g id="Stylus">
+</g>
+<g id="Wacom_1_">
+</g>
+<g id="Paperclips_1_">
+</g>
+<g id="Earbuds_1_">
+</g>
+<g id="Glasses">
+</g>
+<g id="Sunglasses">
+</g>
+<g id="Case_1_">
+</g>
+<g id="Donut_1_">
+</g>
+</svg>

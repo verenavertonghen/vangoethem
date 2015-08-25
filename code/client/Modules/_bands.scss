@@ -1,0 +1,58 @@
+$band-color-dark:		$dark;
+$band-color-light:		$light;
+$band-color-primary:	$primary;
+$band-color-secondary:	$secondary;
+$band-color-white:		$white;
+$band-color-black:		$black;
+$band-height-big: 		55em;
+$band-height: 			30em;
+$band-height-small:		15em;
+
+@mixin bandpadding(){
+	padding: 4em 2em;
+}
+
+.band{
+	.inner-band{
+		@include outer-container();
+		@include bandpadding();
+	}
+}
+
+.band-big{
+	//height:$band-height-big !important;
+}
+
+.band-small{
+	//height:$band-height-small !important;
+}
+
+.band-dark{
+	background: $band-color-dark;
+	color:$white;
+}
+
+.band-light{
+	background: $band-color-light;
+	color:$dark;
+}
+
+.band-primary{
+	background: $band-color-primary;
+	color:$white;
+}
+
+.band-secondary{
+	background: $band-color-secondary;
+	color:$white;
+}
+
+.band-black{
+	background: $band-color-black;
+	color:$white;
+}
+
+.band-white{
+	background: $band-color-white;
+	color:$dark;
+}

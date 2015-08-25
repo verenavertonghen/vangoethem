@@ -1,0 +1,79 @@
+//CUSTOM
+$pearl:				#EFEDE0;
+$honey:				#C7995E;
+$gold:				#C3A775;
+$platinum:			#CBCCC7;
+$aubergine:			#604D61;
+$royal:				#151B27;
+
+//FLAT UI
+
+$turquoise:			#1ABC9C;
+$green-sea:			#16A085;
+
+$emerald:			#2ECC71;
+$nephritis:			#27AE60;
+
+$peter-river:		#3498DB;
+$belize-hole:		#2980B9;
+
+$amethyst:			#9B59B6;
+$wisteria:			#8E44AD;
+
+$wet-asphalt:		#34495E;
+$midnight-blue:		#2C3E50;
+
+$sun-flower:		#F1C40F;
+$orange:			#F39C12;
+
+$carrot:			#E67E22;
+$pumpkin:			#D35400;
+
+$alizarin:			#E74C3C;
+$pomegranate:		#C0392B;
+
+$clouds: 			#ECF0F1;
+$silver: 			#BDC3C7;
+
+$concrete: 			#95A5A6;
+$asbestos: 			#7F8C8D;
+
+$white:				#FFFFFF;
+$black:				#000000;
+
+// $light:				#F0F0F0;
+// $dark:				#101010;
+
+$light:				$platinum;
+$dark:				darken($aubergine,20);
+
+// $primary:			$wet-asphalt;
+// $secondary:			$midnight-blue;
+
+// $primary:			$concrete;
+// $secondary:			$asbestos;
+
+//$primary:			$gold;
+//$secondary:			$aubergine;
+
+$primary:			$aubergine;
+$secondary:			$gold;
+
+$positive:			$green-sea;
+$energized:			$orange;
+$assertive:			$alizarin;
+
+// $red: 		#E0212F;
+// $orange: 	#E66622;
+// $yellow: 	#E6DA22;
+// $grellow: 	#C5DF21;
+// $green: 	#A1D820;
+// $blue: 		#3F289F;
+// $purple:	#5D219B;
+
+$red: 		$alizarin;
+$orange: 	$carrot;
+$yellow: 	$sun-flower;
+$green: 	$emerald;
+$blue: 		$peter-river;
+$purple:	$amethyst;

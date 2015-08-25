@@ -1,0 +1,72 @@
+$base-spacing: 1.5em !default;
+
+@mixin message($color) {
+  background-color: lighten($color,5%);
+  color:darken($color,20%);
+  display: block;
+  font-weight: 600;
+  margin-bottom: $base-spacing / 2;
+  padding: $base-spacing / 2;
+  text-align: center;
+
+  a {
+    color:darken($color,20%);
+    text-decoration: underline;
+
+    &:focus,
+    &:hover {
+      color: darken($color, 30%);
+    }
+  }
+}
+
+.message-positive {
+  @include message($positive);
+}
+
+.message-energized {
+  @include message($energized);
+}
+
+.message-assertive {
+  @include message($assertive);
+}
+
+.message-red {
+  @include message($red);
+}
+
+.message-orange {
+  @include message($orange);
+}
+
+.message-yellow {
+  @include message($yellow);
+}
+.message-green {
+  @include message($green);
+}
+
+.message-blue {
+  @include message($blue);
+}
+
+.message-purple {
+  @include message($purple);
+}
+
+.message-light {
+  @include message($light);
+}
+
+.message-dark {
+  @include message($dark);
+}
+
+.message-primary {
+  @include message($primary);
+}
+
+.message-secondary {
+  @include message($secondary);
+}

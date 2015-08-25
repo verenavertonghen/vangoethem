@@ -1,0 +1,38 @@
+/* TYPOGRAPHY
+-------------------------*/
+
+.primary-title{
+	font-size: $h1-font-size;
+	color:$primary;
+	border-bottom: 1px solid transparentize($primary, 0.8);
+}
+
+.secondary-title{
+	font-size: $h1-font-size;
+	color:$secondary;
+	border-bottom: 1px solid transparentize($primary, 0.8);
+}
+
+.light-text{
+	color:$light;
+}
+
+.primary-text{
+	color:$primary;
+}
+
+.secondary-text{
+	color:$secondary;
+}
+
+.italic-text{
+	font-style: italic;
+}
+
+.display-font{
+	font-family:$display;
+}
+
+.script-font{
+	font-family:$script;
+}

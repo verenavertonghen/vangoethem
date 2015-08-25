@@ -1,0 +1,91 @@
+/* VARIABLES
+-------------------------*/
+
+// Breakpoints
+$medium-screen: em(640);
+$large-screen: em(860);
+
+$medium-screen-up: new-breakpoint(min-width $medium-screen 4);
+$large-screen-up: new-breakpoint(min-width $large-screen 8);
+
+
+
+// Font Colors
+$base-background-color: $white;
+$base-font-color: $dark;
+
+// Typography
+$serif: "alegreyaserif", Georgia, serif;
+$sans-serif: "alegreya", Helvetica, Arial, sans-serif;
+
+// $serif: "josefinslab", Georgia, serif;
+// $sans-serif: "josefinsans", Helvetica, Arial, sans-serif;
+
+// $serif: "merriweather", Georgia, serif;
+// $sans-serif: "merriweathersans", Helvetica, Arial, sans-serif;
+
+// $serif: "droidserif", Georgia, serif;
+// $sans-serif: "droidsans", Helvetica, Arial, sans-serif;
+
+// $serif: "crimson", Georgia, serif;
+// $sans-serif: "clear", Helvetica, Arial, sans-serif;
+
+// $display: "bebasneue", Helvetica, Arial, sans-serif;
+// $script: "yellowtail", Helvetica, Arial, sans-serif;
+
+$display: "bebasneue", Helvetica, Arial, sans-serif;
+$script: "sacramento", Helvetica, Arial, sans-serif;
+
+// $display: "bebasneue", Helvetica, Arial, sans-serif;
+// $script: "pacifico", Helvetica, Arial, sans-serif;
+
+$base-font-family: $sans-serif;
+$heading-font-family: $sans-serif;
+
+// Font Sizes
+$base-font-size: 1em;
+$h1-font-size: $base-font-size * 2.5;
+$h2-font-size: $base-font-size * 2;
+$h3-font-size: $base-font-size * 1.75;
+$h4-font-size: $base-font-size * 1.5;
+$h5-font-size: $base-font-size * 1.25;
+$h6-font-size: $base-font-size;
+
+// Line height
+$base-line-height: 1.5;
+$heading-line-height: 1.2;
+
+// Other Sizes
+$base-border-radius: 		4px;
+$base-spacing: 				$base-line-height * 1em;
+$base-z-index: 				0;
+
+// Link
+$link-color:$primary;
+
+// Border
+$base-border-color: $primary;
+$base-border: 1px solid $base-border-color;
+
+$base-accent-color:$primary;
+
+// Forms
+//$form-box-shadow: inset 0 1px 3px rgba(#000, 0.06);
+//$form-box-shadow-focus: $form-box-shadow, 0 0 5px adjust-color($action-color, $lightness: -5%, $alpha: -0.3);
+
+// Forms
+$form-border-color: 		$base-border-color;
+$form-border-color-hover: 	darken($base-border-color, 10);
+$form-border-color-focus:	$base-accent-color;
+$form-border-radius:		$base-border-radius;
+$form-box-shadow:			inset 0 1px 3px rgba(black,0.06);
+$form-box-shadow-focus: 	$form-box-shadow, 0 0 5px rgba(darken($form-border-color-focus, 5), 0.7);
+$form-font-size: 			$base-font-size;
+$form-font-family: 			$base-font-family;
+
+// Other Sizes
+$base-border-radius: 3px;
+$base-spacing: $base-line-height * 1em;
+$small-spacing: $base-spacing / 2;
+$base-z-index: 0;
+$form-width: 350px;
